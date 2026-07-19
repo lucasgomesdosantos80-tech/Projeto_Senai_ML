@@ -1,4 +1,4 @@
-# Projeto: Análise de Manutenção Preditiva
+# Guardian Tech: Sistema de Manutenção preditiva 
 
 ## Descrição do Problema
 Este projeto tem como objetivo realizar uma análise preditiva para identificar falhas potenciais em ativos industriais, visando reduzir o tempo de inatividade não planejado.

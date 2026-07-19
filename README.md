@@ -27,3 +27,6 @@ O projeto foi desenvolvido em 7 fases estruturadas para garantir a qualidade da 
 ## Melhorias Futuras
 * Implementação de modelos de Machine Learning.
 * Criação de dashboards de visualização.
+
+## Análise de Importância das Variáveis
+O modelo de Árvore de Decisão permitiu identificar quais fatores são determinantes para a falha dos equipamentos. Observou-se que as variáveis **RPM** e **Potência** possuem a maior importância preditiva, sendo os principais indicadores para uma estratégia de manutenção preventiva eficiente.
